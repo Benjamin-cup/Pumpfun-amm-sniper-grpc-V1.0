@@ -3,23 +3,9 @@
 Pumpfun AMM sniper bot V1.0 snipe new token within 1 or 2 blocks after token mint in Pump.fun amm. so this bot snipe token very fast and sell them anytime.
 Bot always make profit. There are some sell strategy.
 
-Welcome to the **PumpFun AMM Sniper Bot v1.0**! This bot watches for new `pump.fun` token mints on the Solana blockchain in real-time by using Geyser(Yellowstone), making it the perfect tool to monitor token launches. 🌟
+Welcome to the **PumpFun AMM Sniper Bot v1.0**! This bot watches for new `pump.fun amm` token mints on the Solana blockchain in real-time by using Geyser(Yellowstone), making it the perfect tool to monitor token launches. 🌟
 
-### 🎯 **Key Features**
 
-- 🛰️ **Real-time WebSocket Streaming**: 
-  Connects to Solana's blockchain through Helius RPC WebSocket or  VibeStation RPC WebSocket and listens for new transactions, specifically targeting `pump.fun` mint instructions.
-  
-- 🔍 **Filter Pump.fun Token Mints**: 
-  Filters transactions by program IDs and instruction discriminators related to `pump.fun`.
-
-- 📊 **Formatted Data**: 
-  Logs essential transaction details like the transaction signature, creator's wallet, and the minted token address when a new `pump.fun` token is detected.
-
-- ⚡ **Efficient Stream Handling**: 
-  Handles WebSocket stream events efficiently, ensuring no loss of data and continuous monitoring.
-
----
 
 
 ## 📞 **Stay Connected**
@@ -37,6 +23,27 @@ Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
 
 
 
+https://github.com/user-attachments/assets/afddfaba-8b7e-433e-84ea-efc58ef38261
+
+
+
+
+
+### 🎯 **Key Features**
+
+- 🛰️ **Real-time WebSocket Streaming**: 
+  Connects to Solana's blockchain through Helius RPC WebSocket or  VibeStation RPC WebSocket and listens for new transactions, specifically targeting `pump.fun` mint instructions.
+  
+- 🔍 **Filter Pump.fun Token Mints**: 
+  Filters transactions by program IDs and instruction discriminators related to `pump.fun`.
+
+- 📊 **Formatted Data**: 
+  Logs essential transaction details like the transaction signature, creator's wallet, and the minted token address when a new `pump.fun` token is detected.
+
+- ⚡ **Efficient Stream Handling**: 
+  Handles WebSocket stream events efficiently, ensuring no loss of data and continuous monitoring.
+
+---
 
 ## 🚀 **Getting Started**
 
